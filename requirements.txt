@@ -1,6 +1,5 @@
-streamlit>=1.28.0
+txtstreamlit>=1.28.0
 pandas>=2.0.0
 numpy>=1.24.0
 plotly>=5.17.0
 nfl-data-py>=0.3.0
-draft-kings>=3.2.0
